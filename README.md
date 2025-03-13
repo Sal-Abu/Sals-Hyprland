@@ -1,5 +1,6 @@
-Dependencies
+# Dependencies
 
+Swaylock
 Hyprland
 Mako
 Rofi
@@ -14,27 +15,28 @@ swww
 nvim
 zsh
 
-System Optimizations and Security
+# Install Script
+
+To be added
 
 
-- Fonts and theming
-- Shell optimizations 
-- Vim
-- Virtualization
-- Setting up UFW
-- Updating microcode
-- Nvidia Configuration
-- Undervolting
-- Etc.
+# System Optimizations and Security
 
+## Fonts and theming
+## Shell optimizations 
+## Vim
+## Virtualization
+## Setting up UFW
+## Updating microcode
+## Nvidia Configuration
+## Undervolting
+## Etc.
 
+# To add to base config.
 
-
-To add.
-
-- Font
-- Qt5 theme
-- Qt6 theme
-- GTK theme
-- hyprcursor
+## Font
+## Qt5 theme
+## Qt6 theme
+## GTK theme
+## hyprcursor
 
